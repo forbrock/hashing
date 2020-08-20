@@ -1,0 +1,6 @@
+.idea/*
+target/*
+*.class
+java-project.iml
+*.war
+*.ear
